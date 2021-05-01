@@ -1,0 +1,728 @@
+{
+    "application_id": "29522339",
+    "nbfiles": 34,
+    "files": [
+        {
+            "id": "29522339-2015-03-30-00001-SCORE",
+            "pdf": "29522339-2015-03-30-00001-SCORE.pdf",
+            "doccode": "SCORE",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2015/03/30",
+            "desc": "Placeholder sheet indicating presence of supplemental content in SCORE",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00002-OATH",
+            "pdf": "29522339-2015-03-30-00002-OATH.pdf",
+            "doccode": "OATH",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2015/03/30",
+            "desc": "Oath or Declaration filed",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00003-DRW",
+            "pdf": "29522339-2015-03-30-00003-DRW.pdf",
+            "doccode": "DRW",
+            "doccode_category": "OTHER",
+            "nbpages": 6,
+            "date": "2015/03/30",
+            "desc": "Drawings-only black and white line drawings",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00004-ADS",
+            "pdf": "29522339-2015-03-30-00004-ADS.pdf",
+            "doccode": "ADS",
+            "doccode_category": "REFERENCE",
+            "nbpages": 7,
+            "date": "2015/03/30",
+            "desc": "Application Data Sheet",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "Exhaust pipe tip"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00005-136A",
+            "pdf": "29522339-2015-03-30-00005-136A.pdf",
+            "doccode": "136A",
+            "doccode_category": "OTHER",
+            "nbpages": 3,
+            "date": "2015/03/30",
+            "desc": "Authorization for Extension of Time all replies",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00006-N417",
+            "pdf": "29522339-2015-03-30-00006-N417.pdf",
+            "doccode": "N417",
+            "doccode_category": "OTHER",
+            "nbpages": 3,
+            "date": "2015/03/30",
+            "desc": "EFS Acknowledgment Receipt",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00007-WFEE",
+            "pdf": "29522339-2015-03-30-00007-WFEE.pdf",
+            "doccode": "WFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2015/03/30",
+            "desc": "Fee Worksheet (SB06)",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00008-CLM",
+            "pdf": "29522339-2015-03-30-00008-CLM.pdf",
+            "doccode": "CLM",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2015/03/30",
+            "desc": "Claims",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00009-SPEC",
+            "pdf": "29522339-2015-03-30-00009-SPEC.pdf",
+            "doccode": "SPEC",
+            "doccode_category": "REFERENCE",
+            "nbpages": 1,
+            "date": "2015/03/30",
+            "desc": "Specification",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "Exhaust pipe tip"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00010-PA..",
+            "pdf": "29522339-2015-03-30-00010-PA...pdf",
+            "doccode": "PA..",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2015/03/30",
+            "desc": "Power of Attorney",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-30-00011-MES.GIB",
+            "pdf": "29522339-2015-03-30-00011-MES.GIB.pdf",
+            "doccode": "MES.GIB",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2015/03/30",
+            "desc": "Certification of Micro Entity (Gross Income Basis)",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-31-00001-N417",
+            "pdf": "29522339-2015-03-31-00001-N417.pdf",
+            "doccode": "N417",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2015/03/31",
+            "desc": "EFS Acknowledgment Receipt",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-03-31-00002-IDS",
+            "pdf": "29522339-2015-03-31-00002-IDS.pdf",
+            "doccode": "IDS",
+            "doccode_category": "OTHER",
+            "nbpages": 4,
+            "date": "2015/03/31",
+            "desc": "Information Disclosure Statement (IDS) Form (SB08)",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2015-04-06-00001-APP.FILE.REC",
+            "pdf": "29522339-2015-04-06-00001-APP.FILE.REC.pdf",
+            "doccode": "APP.FILE.REC",
+            "doccode_category": "BIBLIO",
+            "nbpages": 3,
+            "date": "2015/04/06",
+            "desc": "Filing Receipt",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "Exhaust pipe tip"
+            }
+        },
+        {
+            "id": "29522339-2016-08-01-00001-SRFW",
+            "pdf": "29522339-2016-08-01-00001-SRFW.pdf",
+            "doccode": "SRFW",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/08/01",
+            "desc": "Search information including classification, databases and other search related notes",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-01-00002-1449",
+            "pdf": "29522339-2016-08-01-00002-1449.pdf",
+            "doccode": "1449",
+            "doccode_category": "OTHER",
+            "nbpages": 4,
+            "date": "2016/08/01",
+            "desc": "List of References cited by applicant and considered by examiner",
+            "category": "PRIOR ART",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-01-00003-BIB",
+            "pdf": "29522339-2016-08-01-00003-BIB.pdf",
+            "doccode": "BIB",
+            "doccode_category": "BIBLIO",
+            "nbpages": 1,
+            "date": "2016/08/01",
+            "desc": "Bibliographic Data Sheet",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "Exhaust pipe tip"
+            }
+        },
+        {
+            "id": "29522339-2016-08-01-00004-SRNT",
+            "pdf": "29522339-2016-08-01-00004-SRNT.pdf",
+            "doccode": "SRNT",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/08/01",
+            "desc": "Examiner's search strategy and results",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-01-00005-892",
+            "pdf": "29522339-2016-08-01-00005-892.pdf",
+            "doccode": "892",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/08/01",
+            "desc": "List of references cited by examiner",
+            "category": "PRIOR ART",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-01-00006-CTRS",
+            "pdf": "29522339-2016-08-01-00006-CTRS.pdf",
+            "doccode": "CTRS",
+            "doccode_category": "OTHER",
+            "nbpages": 5,
+            "date": "2016/08/01",
+            "desc": "Requirement for Restriction/Election",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-04-00001-SCORE",
+            "pdf": "29522339-2016-08-04-00001-SCORE.pdf",
+            "doccode": "SCORE",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/08/04",
+            "desc": "Placeholder sheet indicating presence of supplemental content in SCORE",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-04-00002-N417",
+            "pdf": "29522339-2016-08-04-00002-N417.pdf",
+            "doccode": "N417",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/08/04",
+            "desc": "EFS Acknowledgment Receipt",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-04-00003-DRW",
+            "pdf": "29522339-2016-08-04-00003-DRW.pdf",
+            "doccode": "DRW",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/08/04",
+            "desc": "Drawings-only black and white line drawings",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-04-00004-REM",
+            "pdf": "29522339-2016-08-04-00004-REM.pdf",
+            "doccode": "REM",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/08/04",
+            "desc": "Applicant Arguments/Remarks Made in an Amendment",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-04-00005-SPEC",
+            "pdf": "29522339-2016-08-04-00005-SPEC.pdf",
+            "doccode": "SPEC",
+            "doccode_category": "REFERENCE",
+            "nbpages": 1,
+            "date": "2016/08/04",
+            "desc": "Specification",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "Exhaust pipe tip"
+            }
+        },
+        {
+            "id": "29522339-2016-08-04-00006-ELC.",
+            "pdf": "29522339-2016-08-04-00006-ELC..pdf",
+            "doccode": "ELC.",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/08/04",
+            "desc": "Response to Election / Restriction Filed",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-29-00001-IIFW",
+            "pdf": "29522339-2016-08-29-00001-IIFW.pdf",
+            "doccode": "IIFW",
+            "doccode_category": "OTHER",
+            "nbpages": 3,
+            "date": "2016/08/29",
+            "desc": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-08-29-00002-NOA",
+            "pdf": "29522339-2016-08-29-00002-NOA.pdf",
+            "doccode": "NOA",
+            "doccode_category": "REFERENCE",
+            "nbpages": 5,
+            "date": "2016/08/29",
+            "desc": "Notice of Allowance and Fees Due (PTOL-85)",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "Exhaust pipe tip"
+            }
+        },
+        {
+            "id": "29522339-2016-11-28-00001-IFEE",
+            "pdf": "29522339-2016-11-28-00001-IFEE.pdf",
+            "doccode": "IFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/11/28",
+            "desc": "Issue Fee Payment (PTO-85B)",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-11-28-00002-N417",
+            "pdf": "29522339-2016-11-28-00002-N417.pdf",
+            "doccode": "N417",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/11/28",
+            "desc": "EFS Acknowledgment Receipt",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-11-28-00003-WFEE",
+            "pdf": "29522339-2016-11-28-00003-WFEE.pdf",
+            "doccode": "WFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/11/28",
+            "desc": "Fee Worksheet (SB06)",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-11-28-00004-IFEE",
+            "pdf": "29522339-2016-11-28-00004-IFEE.pdf",
+            "doccode": "IFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/11/28",
+            "desc": "Issue Fee Payment (PTO-85B)",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2016-12-21-00001-ISSUE.NTF",
+            "pdf": "29522339-2016-12-21-00001-ISSUE.NTF.pdf",
+            "doccode": "ISSUE.NTF",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/12/21",
+            "desc": "Issue Notification",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "29522339-2017-01-10-00001-PATENT.GRANT",
+            "pdf": "29522339-2017-01-10-00001-PATENT.GRANT.pdf",
+            "doccode": "PATENT.GRANT",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2017/01/10",
+            "desc": "Copy of a Patent Grant",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        }
+    ],
+    "datas": {
+        "Application Number": "29/522,339",
+        "Filing or 371 (c) Date": "03-30-2015",
+        "Application Type": "-",
+        "Examiner Name": "PRATT, MICHAEL AARON",
+        "Group Art Unit": "2914",
+        "Confirmation Number": "2628",
+        "Attorney Docket Number": "HOL05 P-100",
+        "Class / Subclass": "D12/194",
+        "First Named Inventor": "Raymond A. Holman , Grand Rapids, MI (US)",
+        "First Named Applicant": "-",
+        "Entity Status": "Micro",
+        "AIA (First Inventor to File)": "Yes",
+        "Customer Number": "15671",
+        "Status": "Patented Case",
+        "Status Date": "12-21-2016",
+        "Location": "ELECTRONIC",
+        "Location Date": "-",
+        "Earliest Publication No": "-",
+        "Earliest Publication Date": "-",
+        "Patent Number": "D776,031",
+        "Issue Date of Patent": "01-10-2017",
+        "International Registration Number (Hague)": "-",
+        "International Registration Publication Date": "-",
+        "Title of Invention": "EXHAUST PIPE TIP"
+    },
+    "history": [
+        {
+            "date": "01-10-2017",
+            "transaction": "Recordation of Patent Grant Mailed"
+        },
+        {
+            "date": "01-10-2017",
+            "transaction": "Application ready for PDX access by participating foreign offices"
+        },
+        {
+            "date": "12-22-2016",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "12-21-2016",
+            "transaction": "Issue Notification Mailed"
+        },
+        {
+            "date": "12-01-2016",
+            "transaction": "Dispatch to FDC"
+        },
+        {
+            "date": "11-30-2016",
+            "transaction": "Application Is Considered Ready for Issue"
+        },
+        {
+            "date": "11-28-2016",
+            "transaction": "Issue Fee Payment Verified"
+        },
+        {
+            "date": "11-28-2016",
+            "transaction": "Issue Fee Payment Received"
+        },
+        {
+            "date": "08-29-2016",
+            "transaction": "Electronic Review"
+        },
+        {
+            "date": "08-29-2016",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "08-29-2016",
+            "transaction": "Mail Notice of Allowance"
+        },
+        {
+            "date": "08-25-2016",
+            "transaction": "Notice of Allowance Data Verification Completed"
+        },
+        {
+            "date": "08-08-2016",
+            "transaction": "Date Forwarded to Examiner"
+        },
+        {
+            "date": "08-04-2016",
+            "transaction": "Incoming Letter Pertaining to the Drawings"
+        },
+        {
+            "date": "08-04-2016",
+            "transaction": "Response to Election / Restriction Filed"
+        },
+        {
+            "date": "08-01-2016",
+            "transaction": "Electronic Review"
+        },
+        {
+            "date": "08-01-2016",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "08-01-2016",
+            "transaction": "Mail Restriction Requirement"
+        },
+        {
+            "date": "07-25-2016",
+            "transaction": "Restriction/Election Requirement"
+        },
+        {
+            "date": "07-19-2016",
+            "transaction": "Information Disclosure Statement considered"
+        },
+        {
+            "date": "12-01-2015",
+            "transaction": "Case Docketed to Examiner in GAU"
+        },
+        {
+            "date": "09-23-2015",
+            "transaction": "Case Docketed to Examiner in GAU"
+        },
+        {
+            "date": "07-23-2015",
+            "transaction": "Case Docketed to Examiner in GAU"
+        },
+        {
+            "date": "06-06-2015",
+            "transaction": "Case Docketed to Examiner in GAU"
+        },
+        {
+            "date": "04-06-2015",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "04-06-2015",
+            "transaction": "Application Is Now Complete"
+        },
+        {
+            "date": "04-06-2015",
+            "transaction": "Filing Receipt"
+        },
+        {
+            "date": "04-03-2015",
+            "transaction": "Application Dispatched from OIPE"
+        },
+        {
+            "date": "04-03-2015",
+            "transaction": "FITF set to YES - revise initial setting"
+        },
+        {
+            "date": "04-02-2015",
+            "transaction": "Applicant Has Filed a Verified Statement of Micro Entity Status in Compliance with 37 CFR 1.29"
+        },
+        {
+            "date": "03-31-2015",
+            "transaction": "Electronic Information Disclosure Statement"
+        },
+        {
+            "date": "03-31-2015",
+            "transaction": "Information Disclosure Statement (IDS) Filed"
+        },
+        {
+            "date": "03-30-2015",
+            "transaction": "Cleared by OIPE CSR"
+        },
+        {
+            "date": "03-30-2015",
+            "transaction": "IFW Scan & PACR Auto Security Review"
+        },
+        {
+            "date": "03-30-2015",
+            "transaction": "ENTITY STATUS SET TO UNDISCOUNTED (INITIAL DEFAULT SETTING OR STATUS CHANGE)"
+        },
+        {
+            "date": "03-30-2015",
+            "transaction": "Initial Exam Team nn"
+        }
+    ]
+}

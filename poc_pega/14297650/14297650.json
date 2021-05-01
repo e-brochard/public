@@ -1,0 +1,600 @@
+{
+    "application_id": "14297650",
+    "nbfiles": 27,
+    "files": [
+        {
+            "id": "14297650-2014-06-06-00001-OATH",
+            "pdf": "14297650-2014-06-06-00001-OATH.pdf",
+            "doccode": "OATH",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2014/06/06",
+            "desc": "Oath or Declaration filed",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "SHORT CIRCUIT DETECTION CIRCUIT AND SHORT CIRCUIT DETECTION METHOD FOR MULTI-PHASE RECTIFIER AT FREQUENCY DOMAIN"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00002-ADS",
+            "pdf": "14297650-2014-06-06-00002-ADS.pdf",
+            "doccode": "ADS",
+            "doccode_category": "REFERENCE",
+            "nbpages": 7,
+            "date": "2014/06/06",
+            "desc": "Application Data Sheet",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "SHORT CIRCUIT DETECTION CIRCUIT AND SHORT CIRCUIT DETECTION METHOD FOR MULTI-PHASE RECTIFIER AT FREQUENCY DOMAIN"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00003-N417",
+            "pdf": "14297650-2014-06-06-00003-N417.pdf",
+            "doccode": "N417",
+            "doccode_category": "OTHER",
+            "nbpages": 3,
+            "date": "2014/06/06",
+            "desc": "EFS Acknowledgment Receipt",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00004-WFEE",
+            "pdf": "14297650-2014-06-06-00004-WFEE.pdf",
+            "doccode": "WFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2014/06/06",
+            "desc": "Fee Worksheet (SB06)",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00005-DRW",
+            "pdf": "14297650-2014-06-06-00005-DRW.pdf",
+            "doccode": "DRW",
+            "doccode_category": "OTHER",
+            "nbpages": 4,
+            "date": "2014/06/06",
+            "desc": "Drawings-only black and white line drawings",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00006-ABST",
+            "pdf": "14297650-2014-06-06-00006-ABST.pdf",
+            "doccode": "ABST",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2014/06/06",
+            "desc": "Abstract",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00007-CLM",
+            "pdf": "14297650-2014-06-06-00007-CLM.pdf",
+            "doccode": "CLM",
+            "doccode_category": "OTHER",
+            "nbpages": 7,
+            "date": "2014/06/06",
+            "desc": "Claims",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00008-SPEC",
+            "pdf": "14297650-2014-06-06-00008-SPEC.pdf",
+            "doccode": "SPEC",
+            "doccode_category": "REFERENCE",
+            "nbpages": 20,
+            "date": "2014/06/06",
+            "desc": "Specification",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "SHORT CIRCUIT DETECTION CIRCUIT AND SHORT CIRCUIT DETECTION METHOD FOR MULTI-PHASE RECTIFIER AT FREQUENCY DOMAIN"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00009-PA..",
+            "pdf": "14297650-2014-06-06-00009-PA...pdf",
+            "doccode": "PA..",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2014/06/06",
+            "desc": "Power of Attorney",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2014-06-06-00010-PA..",
+            "pdf": "14297650-2014-06-06-00010-PA...pdf",
+            "doccode": "PA..",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2014/06/06",
+            "desc": "Power of Attorney",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2014-06-20-00001-APP.FILE.REC",
+            "pdf": "14297650-2014-06-20-00001-APP.FILE.REC.pdf",
+            "doccode": "APP.FILE.REC",
+            "doccode_category": "BIBLIO",
+            "nbpages": 3,
+            "date": "2014/06/20",
+            "desc": "Filing Receipt",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "SHORT CIRCUIT DETECTION CIRCUIT AND SHORT CIRCUIT DETECTION METHOD FOR MULTI-PHASE RECTIFIER AT FREQUENCY DOMAIN"
+            }
+        },
+        {
+            "id": "14297650-2014-06-20-00002-WFEE",
+            "pdf": "14297650-2014-06-20-00002-WFEE.pdf",
+            "doccode": "WFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2014/06/20",
+            "desc": "Fee Worksheet (SB06)",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2015-12-10-00001-NTC.PUB",
+            "pdf": "14297650-2015-12-10-00001-NTC.PUB.pdf",
+            "doccode": "NTC.PUB",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2015/12/10",
+            "desc": "Notice of Publication",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00001-SRFW",
+            "pdf": "14297650-2016-10-11-00001-SRFW.pdf",
+            "doccode": "SRFW",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/10/11",
+            "desc": "Search information including classification, databases and other search related notes",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00002-BIB",
+            "pdf": "14297650-2016-10-11-00002-BIB.pdf",
+            "doccode": "BIB",
+            "doccode_category": "BIBLIO",
+            "nbpages": 1,
+            "date": "2016/10/11",
+            "desc": "Bibliographic Data Sheet",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "SHORT CIRCUIT DETECTION"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00003-IIFW",
+            "pdf": "14297650-2016-10-11-00003-IIFW.pdf",
+            "doccode": "IIFW",
+            "doccode_category": "OTHER",
+            "nbpages": 3,
+            "date": "2016/10/11",
+            "desc": "Issue Information including classification, examiner, name, claim, renumbering, etc.",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00004-SRNT",
+            "pdf": "14297650-2016-10-11-00004-SRNT.pdf",
+            "doccode": "SRNT",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/10/11",
+            "desc": "Examiner's search strategy and results",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00005-SRNT",
+            "pdf": "14297650-2016-10-11-00005-SRNT.pdf",
+            "doccode": "SRNT",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/10/11",
+            "desc": "Examiner's search strategy and results",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00006-SRNT",
+            "pdf": "14297650-2016-10-11-00006-SRNT.pdf",
+            "doccode": "SRNT",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/10/11",
+            "desc": "Examiner's search strategy and results",
+            "category": "PROSECUTION",
+            "status": "DOUBT",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00007-892",
+            "pdf": "14297650-2016-10-11-00007-892.pdf",
+            "doccode": "892",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/10/11",
+            "desc": "List of references cited by examiner",
+            "category": "PRIOR ART",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-10-11-00008-NOA",
+            "pdf": "14297650-2016-10-11-00008-NOA.pdf",
+            "doccode": "NOA",
+            "doccode_category": "REFERENCE",
+            "nbpages": 8,
+            "date": "2016/10/11",
+            "desc": "Notice of Allowance and Fees Due (PTOL-85)",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3",
+                "title": "SHORT CIRCUIT DETECTION CIRCUIT AND SHORT CIRCUIT DETECTION METHOD FOR MULTI-PHASE RECTIFIER AT FREQUENCY DOMAIN"
+            }
+        },
+        {
+            "id": "14297650-2016-11-30-00001-N417",
+            "pdf": "14297650-2016-11-30-00001-N417.pdf",
+            "doccode": "N417",
+            "doccode_category": "OTHER",
+            "nbpages": 3,
+            "date": "2016/11/30",
+            "desc": "EFS Acknowledgment Receipt",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-11-30-00002-WFEE",
+            "pdf": "14297650-2016-11-30-00002-WFEE.pdf",
+            "doccode": "WFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 2,
+            "date": "2016/11/30",
+            "desc": "Fee Worksheet (SB06)",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-11-30-00003-DRW",
+            "pdf": "14297650-2016-11-30-00003-DRW.pdf",
+            "doccode": "DRW",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/11/30",
+            "desc": "Drawings-only black and white line drawings",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-11-30-00004-A.NA",
+            "pdf": "14297650-2016-11-30-00004-A.NA.pdf",
+            "doccode": "A.NA",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/11/30",
+            "desc": "Amendment after Notice of Allowance (Rule 312)",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-11-30-00005-IFEE",
+            "pdf": "14297650-2016-11-30-00005-IFEE.pdf",
+            "doccode": "IFEE",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/11/30",
+            "desc": "Issue Fee Payment (PTO-85B)",
+            "category": "PROSECUTION",
+            "status": "OK",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        },
+        {
+            "id": "14297650-2016-12-21-00001-ISSUE.NTF",
+            "pdf": "14297650-2016-12-21-00001-ISSUE.NTF.pdf",
+            "doccode": "ISSUE.NTF",
+            "doccode_category": "OTHER",
+            "nbpages": 1,
+            "date": "2016/12/21",
+            "desc": "Issue Notification",
+            "category": "PROSECUTION",
+            "status": "ERR",
+            "indexes": {
+                "key1": "value1",
+                "key2": "value2",
+                "key3": "value3"
+            }
+        }
+    ],
+    "datas": {
+        "Application Number": "14/297,650",
+        "Filing or 371 (c) Date": "06-06-2014",
+        "Application Type": "Utility",
+        "Examiner Name": "LEJA, RONALD W",
+        "Group Art Unit": "2836",
+        "Confirmation Number": "4052",
+        "Attorney Docket Number": "103P000330US",
+        "Class / Subclass": "361/018",
+        "First Named Inventor": "CHI-KAI WU , Taoyuan, (TW)",
+        "First Named Applicant": "ACTRON TECHNOLOGY CORPORATION , Taoyuan, (TW)",
+        "Entity Status": "Undiscounted",
+        "AIA (First Inventor to File)": "Yes",
+        "Customer Number": "98478",
+        "Status": "Patented Case",
+        "Status Date": "12-21-2016",
+        "Location": "ELECTRONIC",
+        "Location Date": "-",
+        "Earliest Publication No": "US 2015-0357813 A1",
+        "Earliest Publication Date": "12-10-2015",
+        "Patent Number": "9,543,886",
+        "Issue Date of Patent": "01-10-2017",
+        "International Registration Number (Hague)": "-",
+        "International Registration Publication Date": "-",
+        "Title of Invention": "SHORT CIRCUIT DETECTION CIRCUIT AND SHORT CIRCUIT DETECTION METHOD FOR MULTI-PHASE RECTIFIER AT FREQUENCY DOMAIN"
+    },
+    "history": [
+        {
+            "date": "01-10-2017",
+            "transaction": "Recordation of Patent Grant Mailed"
+        },
+        {
+            "date": "01-10-2017",
+            "transaction": "Patent Issue Date Used in PTA Calculation"
+        },
+        {
+            "date": "12-22-2016",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "12-21-2016",
+            "transaction": "Issue Notification Mailed"
+        },
+        {
+            "date": "12-05-2016",
+            "transaction": "Dispatch to FDC"
+        },
+        {
+            "date": "12-03-2016",
+            "transaction": "Application Is Considered Ready for Issue"
+        },
+        {
+            "date": "11-30-2016",
+            "transaction": "Issue Fee Payment Verified"
+        },
+        {
+            "date": "11-30-2016",
+            "transaction": "Workflow - Drawings Finished"
+        },
+        {
+            "date": "11-30-2016",
+            "transaction": "Issue Fee Payment Received"
+        },
+        {
+            "date": "10-12-2016",
+            "transaction": "Electronic Review"
+        },
+        {
+            "date": "10-11-2016",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "10-11-2016",
+            "transaction": "Mail Notice of Allowance"
+        },
+        {
+            "date": "10-06-2016",
+            "transaction": "Notice of Allowance Data Verification Completed"
+        },
+        {
+            "date": "09-30-2016",
+            "transaction": "Reasons for Allowance"
+        },
+        {
+            "date": "09-30-2016",
+            "transaction": "Examiner's Amendment Communication"
+        },
+        {
+            "date": "12-11-2015",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "12-10-2015",
+            "transaction": "Application ready for PDX access by participating foreign offices"
+        },
+        {
+            "date": "12-10-2015",
+            "transaction": "PG-Pub Issue Notification"
+        },
+        {
+            "date": "10-06-2015",
+            "transaction": "Case Docketed to Examiner in GAU"
+        },
+        {
+            "date": "06-11-2015",
+            "transaction": "Case Docketed to Examiner in GAU"
+        },
+        {
+            "date": "05-04-2015",
+            "transaction": "Application Dispatched from OIPE"
+        },
+        {
+            "date": "06-20-2014",
+            "transaction": "Email Notification"
+        },
+        {
+            "date": "06-20-2014",
+            "transaction": "Application Is Now Complete"
+        },
+        {
+            "date": "06-20-2014",
+            "transaction": "Filing Receipt"
+        },
+        {
+            "date": "06-19-2014",
+            "transaction": "Sent to Classification Contractor"
+        },
+        {
+            "date": "06-19-2014",
+            "transaction": "FITF set to YES - revise initial setting"
+        },
+        {
+            "date": "06-06-2014",
+            "transaction": "Patent Term Adjustment - Ready for Examination"
+        },
+        {
+            "date": "06-06-2014",
+            "transaction": "Applicants have given acceptable permission for participating foreign"
+        },
+        {
+            "date": "06-06-2014",
+            "transaction": "Cleared by OIPE CSR"
+        },
+        {
+            "date": "06-06-2014",
+            "transaction": "IFW Scan & PACR Auto Security Review"
+        },
+        {
+            "date": "06-06-2014",
+            "transaction": "ENTITY STATUS SET TO UNDISCOUNTED (INITIAL DEFAULT SETTING OR STATUS CHANGE)"
+        },
+        {
+            "date": "06-06-2014",
+            "transaction": "Initial Exam Team nn"
+        }
+    ]
+}
